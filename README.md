@@ -1,4 +1,4 @@
-# options-checkbox-input2
+# options-checkbox-input
 
 ## Project setup
 ```
